@@ -7,4 +7,4 @@ The following are useful links:
 
 * The GitHub location for `Percona XtraDB Cluster <https://github.com/percona/percona-xtradb-cluster>`__ 
 
-* To contribute to the documentation, review the `Documentation Contribution Guide <https://github.com/percona/percona-server/blob/8.0/doc/source/contributing.md>`__
+* To contribute to the documentation, review the `Documentation Contribution Guide <https://github.com/percona/percona-xtradb-cluster/blob/8.0/doc/source/contributing.md>`__
